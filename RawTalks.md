@@ -4,17 +4,17 @@
 
 **3.Perplexity: Model Council** Multi-AI agent - Gemini, Claude, ChatGPT- multiple models
 
-**Groq-heavy**: Muliple Groq versions, Content research, 
-**Gemini 3.1:** COntent Writing
-**ChatGPT:** Email writing, messaging
-**CLaude, Mini-max2.7(via openrouter), Chatgpt-:** Coding
-**Ollama,(gemma4)**: Data privacy, own personal computer, flight travel
-**burnermail,Lmstudois**: email templates
-**Google AI-EDGe gallery:** mobile version
-**locally.ai**
-**Apple Foundation mail**
-**Open Claw**: can be run on computer, cloud, AI-Employee
-**Julius:** DataBase access
+* **Groq-heavy**: Muliple Groq versions, Content research, 
+* **Gemini 3.1:** COntent Writing
+* **ChatGPT:** Email writing, messaging
+* **CLaude, Mini-max2.7(via openrouter), Chatgpt-:** Coding
+* **Ollama,(gemma4)**: Data privacy, own personal computer, flight travel
+* **burnermail,Lmstudois**: email templates
+* **Google AI-EDGe gallery:** mobile version
+* **locally.ai**
+* **Apple Foundation mail**
+* **Open Claw**: can be run on computer, cloud, AI-Employee
+* **Julius:** DataBase access
 
 **Problem Statement:**
 
@@ -32,11 +32,11 @@
 
 **AI-Channels:**
 
-1.Matthew Burman
-2.Andrew Karpathy
-3.Lex Fridman
-4.TBPN - by openAI
-5.Peter H .Diamandis- moonshot podcast
+1. Matthew Burman
+2. Andrew Karpathy
+3. Lex Fridman
+4. TBPN - by openAI
+5. Peter H .Diamandis- moonshot podcast
 
 **Problem Statement2:**
 **GenSpark AI WorkSpace 4.0:** For Job Search-AI-Sheets Mode
@@ -53,24 +53,49 @@
     Madgicx.com: Meta Ads, Facebook Ads=> Click rate, Ad Campaigns,Optimization
     
 **2.Prasad Calavadi:** Organized Email, Chat Communication
-   Granola (offline meeting taker), Fireflies.ai: Online meeting tool
-   Neosapien.xyz: hardware device, meeting recording,
-   MCP, n8n: meeting summarization 
-   Google workspace Cli: pulls information from google services , google ecosystem , Gmail, Calendar,
-   Claude: Add connectors-> Gmail,Granola,Slack,Chrome (for whatsApp, open chrome scroll through whatsApp messages )
-   MCP: how to convert API into MCP server ( search in Perplexity )
+   * Granola (offline meeting taker), Fireflies.ai: Online meeting tool
+   * Neosapien.xyz: hardware device, meeting recording,
+   * MCP, n8n: meeting summarization 
+   * Google workspace Cli: pulls information from google services , google ecosystem , Gmail, Calendar,
+   * Claude: Add connectors-> Gmail,Granola,Slack,Chrome (for whatsApp, open chrome scroll through whatsApp messages )
+   * MCP: how to convert API into MCP server ( search in Perplexity )
    
 **3.Virinchi:**  prioritise patient doubts & questions to doctor calls, social-media monitoring
   **Eleven Labs:** **Voice agent:** Personalized 
    **RAG:**
-   maintains all the patient records at a single place.
-   documents all the subscriptions, medicines 
-   provides contextual solutions instead of generic solutions or subscriptions.
+   * maintains all the patient records at a single place.
+   * documents all the subscriptions, medicines 
+   * provides contextual solutions instead of generic solutions or subscriptions.
 
-**4.Ajitesh:** Predictive analytics for construction of house and hand over.
- External conditions, Internal Conditions
+**4.Ajitesh:** 
+ * Predictive analytics for construction of house and hand over.
+ * External conditions, Internal Conditions
 
- **5.Niloufer MD:** co-relation of airport inflow traffic, rela time consumption
+ **5.Niloufer MD:** 
+ * Co-relation of airport inflow traffic, real time data time consumption, weather-climate-hot or      cold, sentiment, reason behind people arrival
+ * external party data - guestimate-estimated guests-flight tickets data through API.
+ * ticket price alert-price increase or decrease- make the stock available accordingly.
+
+ **6.Tharun Bhaskar, Ben Aflek:**
+ * ByteDance : No Guard Rail API
+ * Heagen : allow audio
+ * Seeddance
+ * Consistency and Motion Control
+ * GPU cost is high for upscaling
+ * Text -> AUdio -> Images & Video
+ * Sora
+ * Upscaling
+ * Comfyy- Image workflow, Cloud GPU servers,
+
+ **7.Chandrabose:**
+ * Creative people -> Mindblocks : Inspiration, Compounding Innovation ability
+ * Idea generation machine ->
+
+
+ 
+
+ 
+ 
  
 
   
