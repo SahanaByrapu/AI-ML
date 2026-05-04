@@ -23,7 +23,7 @@ MODEL_PATH = os.path.join(BASE_DIR, "label_encoder_gender.pkl")
 with open(MODEL_PATH, 'rb') as file:
     label_encoder_gender = pickle.load(file)
 
-MODEL_PATH = os.path.join(BASE_DIR, "nehot_encoder_geo.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "onehot_encoder_geo.pkl")
 with open(MODEL_PATH, 'rb') as file:
     onehot_encoder_geo = pickle.load(file)
 
