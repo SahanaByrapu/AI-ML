@@ -11,20 +11,24 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "model.h5")
 
-print(MODEL_PATH)
+print("MODEL_PATH",MODEL_PATH)
 
 model = tf.keras.models.load_model(MODEL_PATH)
 
+MODEL_PATH = os.path.join(BASE_DIR, "model.h5")
 
 
+MODEL_PATH = os.path.join(BASE_DIR, "label_encoder_gender.pkl")
 # Load the encoders and scaler
-with open('label_encoder_gender.pkl', 'rb') as file:
+with open(MODEL_PATH, 'rb') as file:
     label_encoder_gender = pickle.load(file)
 
-with open('onehot_encoder_geo.pkl', 'rb') as file:
+MODEL_PATH = os.path.join(BASE_DIR, "nehot_encoder_geo.pkl")
+with open(MODEL_PATH, 'rb') as file:
     onehot_encoder_geo = pickle.load(file)
 
-with open('scaler.pkl', 'rb') as file:
+MODEL_PATH = os.path.join(BASE_DIR, "scaler.pkl")
+with open(MODEL_PATH, 'rb') as file:
     scaler = pickle.load(file)
 
 
